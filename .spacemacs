@@ -526,7 +526,7 @@ This function is called at the very end of Spacemacs initialization."
  '(cua-normal-cursor-color "#657b83")
  '(cua-overwrite-cursor-color "#b58900")
  '(cua-read-only-cursor-color "#859900")
- '(disaster-objdump "gobjdump -d -M att -Sl --no-show-raw-insn")
+ '(disaster-objdump "objdump -d -M att -Sl --no-show-raw-insn")
  '(elm-indent-offset 2)
  '(eshell-prompt-function (quote jb55/eshell-prompt))
  '(evil-shift-width 2)
